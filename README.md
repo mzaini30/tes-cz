@@ -1,2 +1,0 @@
-# tes-cz
-Latihan Commitizen
